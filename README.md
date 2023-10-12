@@ -1,2 +1,2 @@
 # Workshop01
-My first step
+program konsolowy do zarządzania zadaniami: tasks
